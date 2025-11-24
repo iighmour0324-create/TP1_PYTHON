@@ -1,0 +1,3 @@
+2025-11-24T19:22:15.104934 — Préparer la réunion du projet X
+2025-11-24T19:22:16.105313 — Faire la revue de code
+2025-11-24T19:22:17.105696 — Envoyer le rapport hebdomadaire
